@@ -24,7 +24,7 @@ export default function Footer() {
               </div>
               <div className='text-gray-400'>
                 The future of payment processing is here. Don't let processing
-                fees eat into your profits. Start saving today with SMPL's cash
+                fees eat into your profits. Start saving today with EasyProProcessing's cash
                 discount processing. Contact us now to learn more and join the
                 revolution..
               </div>
@@ -244,7 +244,7 @@ export default function Footer() {
 
             {/* Copyrights note */}
             <div className='text-gray-400 text-sm mr-4'>
-              &copy; Cruip.com. All rights reserved.
+              &copy; EasyProProcessing All rights reserved.
             </div>
           </div>
         </div>

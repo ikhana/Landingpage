@@ -3,6 +3,10 @@ import Image from 'next/image';
 import FeatImage01 from '@/public/images/features-03-image-01.png';
 import FeatImage02 from '@/public/images/features-03-image-02.png';
 import FeatImage03 from '@/public/images/features-03-image-03.png';
+import FeatImage04 from "@/public/images/features-image-no-contract.jpg";
+import FeatImage05 from '@/public/images/FEATURE-TRANSPARENCY.jpg';
+import FeatImage06 from '@/public/images/same-day.jpg';
+import FeatImage07 from '@/public/images/unlimited.jpg';
 
 export default function Zigzag() {
   return (
@@ -52,12 +56,12 @@ export default function Zigzag() {
                   <div className='font-architects-daughter text-xl text-purple-600 mb-2'>
                     More speed. Less spend
                   </div>
-                  <h3 className='h3 mb-3'>The SMPL Solution</h3>
+                  <h3 className='h3 mb-3'>The EasyProProcessing Solution</h3>
                   <p className='text-xl text-gray-400 mb-4'>
-                    At SMPL, we've turned the traditional model on its head.
+                    At EasyProProcessing, we've turned the traditional model on its head.
                     We've done away with the percentage-based fees and
                     introduced a revolutionary concept - 0% processing. With
-                    SMPL, what you earn is what you keep. This means that when
+                    EasyProProcessing, what you earn is what you keep. This means that when
                     you make $100 in sales, you keep $100. No deductions, no
                     surprises. This simple yet powerful concept can be the
                     difference between just surviving and truly thriving in
@@ -76,7 +80,7 @@ export default function Zigzag() {
               >
                 <Image
                   className='max-w-full mx-auto md:max-w-none h-auto'
-                  src={FeatImage02}
+                  src={FeatImage04}
                   width={540}
                   height={405}
                   alt='Features 02'
@@ -94,7 +98,7 @@ export default function Zigzag() {
                   <h3 className='h3 mb-3'>No Contract</h3>
                   <p className='text-xl text-gray-400 mb-4'>
                     Contracts can often feel like shackles, binding you to a
-                    service even when it no longer serves your needs. At SMPL,
+                    service even when it no longer serves your needs. At EasyProProcessing,
                     we believe in the freedom of choice. We're confident in the
                     value we provide, and we believe that our services should
                     stand on their own merits. That's why we don't bind you with
@@ -147,7 +151,7 @@ export default function Zigzag() {
               >
                 <Image
                   className='max-w-full mx-auto md:max-w-none h-auto'
-                  src={FeatImage03}
+                  src={FeatImage05}
                   width={540}
                   height={405}
                   alt='Features 03'
@@ -167,7 +171,7 @@ export default function Zigzag() {
                     Hidden fees are one of the biggest pain points in the
                     payment processing industry. They add uncertainty to your
                     expenses and can cause your processing costs to balloon
-                    unexpectedly. At SMPL, we uphold transparency in our
+                    unexpectedly. At EasyProProcessing, we uphold transparency in our
                     pricing. What you see is what you get. No hidden fees, no
                     nasty surprises. We believe that businesses should be able
                     to plan their budgets with confidence, and we're committed
@@ -217,7 +221,7 @@ export default function Zigzag() {
               >
                 <Image
                   className='max-w-full mx-auto md:max-w-none h-auto'
-                  src={FeatImage02}
+                  src={FeatImage06}
                   width={540}
                   height={405}
                   alt='Features 02'
@@ -237,7 +241,7 @@ export default function Zigzag() {
                     Cash flow is the lifeblood of any business. A delay in
                     accessing your funds can disrupt your operations and even
                     put your business at risk. That's why we offer same-day
-                    funding. With SMPL, you don't have to wait for days to get
+                    funding. With EasyProProcessing, you don't have to wait for days to get
                     your funds. As soon as a transaction is processed, the funds
                     are transferred to your account. This ensures that you
                     always have the cash flow you need to run your business
@@ -287,7 +291,7 @@ export default function Zigzag() {
               >
                 <Image
                   className='max-w-full mx-auto md:max-w-none h-auto'
-                  src={FeatImage03}
+                  src={FeatImage07}
                   width={540}
                   height={405}
                   alt='Features 03'
@@ -306,7 +310,7 @@ export default function Zigzag() {
                   <p className='text-xl text-gray-400 mb-4'>
                     In the world of business, growth often means more
                     transactions. But with most payment processors, more
-                    transactions mean more fees. At SMPL, we don't believe in
+                    transactions mean more fees. At EasyProProcessing, we don't believe in
                     penalizing success. That's why we offer unlimited
                     transactions. Whether you're processing a hundred
                     transactions or a thousand, you pay the same flat rate. This

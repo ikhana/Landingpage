@@ -13,7 +13,7 @@ export default function Testimonials() {
           <div className='max-w-3xl mx-auto text-center pb-12 md:pb-20'>
             <h2 className='h2 mb-4'>Don't take our word for it</h2>
             <p className='text-xl text-gray-400'>
-              Here's what some of our customers have to say about SMPL.
+              Here's what some of our customers have to say about EasyProProcessing.
             </p>
           </div>
 
@@ -43,7 +43,7 @@ export default function Testimonials() {
                 </div>
               </div>
               <blockquote className='text-lg text-gray-400 grow'>
-                — Since switching to SMPL, we've saved thousands of dollars in
+                — Since switching to EasyProProcessing, we've saved thousands of dollars in
                 processing fees. The best part is, it was so easy to switch!
               </blockquote>
               <div className='text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700'>
@@ -82,7 +82,7 @@ export default function Testimonials() {
                 </div>
               </div>
               <blockquote className='text-lg text-gray-400 grow'>
-                — SMPL's customer service is top-notch. They were there to help
+                — EasyProProcessing's customer service is top-notch. They were there to help
                 us every step of the way. We couldn't be happier with our
                 decision to switch to SMPL.
               </blockquote>
@@ -122,7 +122,7 @@ export default function Testimonials() {
                 </div>
               </div>
               <blockquote className='text-lg text-gray-400 grow'>
-                — We love the simplicity and transparency of SMPL. No hidden
+                — We love the simplicity and transparency of EasyProProcessing. No hidden
                 fees, no surprises. Just simple, straightforward processing.
               </blockquote>
               <div className='text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700'>
