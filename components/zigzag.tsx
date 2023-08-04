@@ -93,9 +93,9 @@ export default function Zigzag() {
               >
                 <div className='md:pl-4 lg:pl-12 xl:pl-16'>
                   <div className='font-architects-daughter text-xl text-purple-600 mb-2'>
-                    No Contract. Less spend
-                  </div>
                   <h3 className='h3 mb-3'>No Contract</h3>
+                  </div>
+                  
                   <p className='text-xl text-gray-400 mb-4'>
                     Contracts can often feel like shackles, binding you to a
                     service even when it no longer serves your needs. At EasyProProcessing,
@@ -164,9 +164,9 @@ export default function Zigzag() {
               >
                 <div className='md:pr-4 lg:pr-12 xl:pr-16'>
                   <div className='font-architects-daughter text-xl text-purple-600 mb-2'>
-                    No Hidden Fee. Less spend
-                  </div>
                   <h3 className='h3 mb-3'>No Hidden Fee</h3>
+                  </div>
+                  
                   <p className='text-xl text-gray-400 mb-4'>
                     Hidden fees are one of the biggest pain points in the
                     payment processing industry. They add uncertainty to your
@@ -234,9 +234,9 @@ export default function Zigzag() {
               >
                 <div className='md:pl-4 lg:pl-12 xl:pl-16'>
                   <div className='font-architects-daughter text-xl text-purple-600 mb-2'>
-                    Same Day Funding. More Speed
-                  </div>
                   <h3 className='h3 mb-3'>Same Day Funding</h3>
+                  </div>
+                 
                   <p className='text-xl text-gray-400 mb-4'>
                     Cash flow is the lifeblood of any business. A delay in
                     accessing your funds can disrupt your operations and even
@@ -304,9 +304,9 @@ export default function Zigzag() {
               >
                 <div className='md:pr-4 lg:pr-12 xl:pr-16'>
                   <div className='font-architects-daughter text-xl text-purple-600 mb-2'>
-                    Unlimited Transactions. Less spend
-                  </div>
                   <h3 className='h3 mb-3'>Unlimited Transactions</h3>
+                  </div>
+                 
                   <p className='text-xl text-gray-400 mb-4'>
                     In the world of business, growth often means more
                     transactions. But with most payment processors, more
