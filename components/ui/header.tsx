@@ -31,7 +31,7 @@ export default function Header() {
                   href='/signup'
                   className='btn-sm text-white bg-[#1E293B] hover:bg-purple-700 ml-3 font-sans rounded-full mt-[30px]'
                 >
-                  Get your Card
+                  Know More 
                 </Link>
               </li>
             </ul>
@@ -45,10 +45,7 @@ export default function Header() {
             <h1 className='flex items-center text-white text-[52px] w-[600px] leading-tight font-bold font-sans-serif p-2 italic'>
             Unleash Your Business Potential with EasyProProcessing's Cash Discount 
             </h1>
-            <p className='flex items-center text-white text-[18px] w-[600px] p-2 font-serif'>
-              Our landing page template works on all devices, so you only <br />
-              have to set it up once, and get beautiful results forever.
-            </p>
+            
             {/* Desktop navigation */}
             <nav className='hidden md:flex md:grow'>
               {/* Desktop sign in links */}
@@ -58,7 +55,7 @@ export default function Header() {
                     href='/signup'
                     className='btn-sm text-white bg-[#1E293B] hover:bg-purple-700 ml-3 font-sans rounded-full mt-[30px]'
                   >
-                    Get your Card
+                    Let,s Connect
                   </Link>
                 </li>
                 <li>
@@ -66,7 +63,7 @@ export default function Header() {
                     href='/signup'
                     className='btn-sm text-white bg-[#5396F7] hover:bg-purple-700 ml-3 font-sans rounded-full mt-[30px]'
                   >
-                    Read Documentation
+                    Explore the world of 0% Processing 
                   </Link>
                 </li>
               </ul>
